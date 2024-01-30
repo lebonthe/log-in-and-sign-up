@@ -1,0 +1,6 @@
+[submodule "/Users/lebonthe/Downloads/testForGit/alreadyExist"]
+	path = /Users/lebonthe/Downloads/testForGit/alreadyExist
+	url = https://github.com/lebonthe/test
+[submodule "/Users/lebonthe/Downloads/testForGit/week3App"]
+	path = /Users/lebonthe/Downloads/testForGit/week3App
+	url = https://github.com/lebonthe/log-in-and-sign-up
